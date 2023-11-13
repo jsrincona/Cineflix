@@ -1,0 +1,57 @@
+/*-------------------------------------*\
+  #variables.css
+\*-------------------------------------*/
+
+/**
+ * copyright 2021 @codewithsadee 
+ */
+
+
+
+
+
+/**
+ * all global variables 
+ */
+
+:root {
+
+  /**
+   * Colors 
+   */
+
+   --live-indicator-shadow: rgba(121, 9, 18, 0.5);
+   --rich-black-fogra-30:   rgba(111, 140, 166, 1);
+   --rich-black-fogra-29:   rgba(242, 200, 73, 1);
+   --live-indicator:        rgba(191, 126, 6, 1);
+   --oxford-blue-50:        rgba(217, 62, 48, 0.8);
+   --oxford-blue:           rgba(191, 126, 6, 1);
+   --light-azure:           rgba(249, 208, 73, 1);
+   --off-white:             rgba(216, 62, 48, 0.8);
+   --yellow:                rgba(217, 62, 48, 1);
+   --white:                 rgba(255, 255, 255, 1);
+   --azure:                 rgba(46, 140, 159, 1);
+
+  /**
+   * Typography 
+   */
+
+  --ff-inter: "Inter", sans-serif;
+
+  --section-heading: 40px;
+  --fs-lg:           22px;
+  --fs-md:           17px;
+  --fs-sm:           14px;
+  --fs-x-sm:         12px;
+  
+  --fw-7: 700;
+  --fw-6: 600;
+  --fw-5: 500;
+
+  /**
+   * Spacing 
+   */
+
+  --px: 120px; /* padding-left & padding-right */
+
+}
